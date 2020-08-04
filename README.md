@@ -1,2 +1,0 @@
-# R1200_Firmware_Project
-R1200_Code_On_Gitgub
